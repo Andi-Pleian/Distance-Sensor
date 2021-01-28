@@ -1,0 +1,19 @@
+-IC:/Users/Mihaits/Documents/PlatformIO/Projects/Distance Sensor v1/include
+-IC:/Users/Mihaits/Documents/PlatformIO/Projects/Distance Sensor v1/src
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/cores/arduino
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/variants/standard
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-IC:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-IC:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/Mihaits/.platformio/packages/tool-unity
+-DPLATFORMIO=50004
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega328P__

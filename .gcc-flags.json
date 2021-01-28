@@ -1,0 +1,8 @@
+{
+  "execPath": "C:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "gccDefaultCFlags": "-fsyntax-only -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50004 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccDefaultCppFlags": "-fsyntax-only -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50004 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": "C:/Users/Mihaits/Documents/PlatformIO/Projects/Distance Sensor v1/include,C:/Users/Mihaits/Documents/PlatformIO/Projects/Distance Sensor v1/src,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/cores/arduino,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/variants/standard,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/HID/src,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/SPI/src,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src,C:/Users/Mihaits/.platformio/packages/framework-arduino-avr/libraries/Wire/src,C:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include,C:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed,C:/Users/Mihaits/.platformio/packages/toolchain-atmelavr/avr/include,C:/Users/Mihaits/.platformio/packages/tool-unity",
+  "gccSuppressWarnings": false
+}
